@@ -1,0 +1,23 @@
+{
+  "$id": "famously-simple-kit-8303e",
+  "$schema": "https://schema.yext.com/config/pages/yextsite-config/v1",
+  "siteName": "react-basic-site",
+  "repoConfig": "flint-stress-disk-f84c7",
+  "siteSettings": {
+    "autoDeploy": true,
+    "autoStage": true,
+    "autoPublish": false,
+    "pullRequestsEnabled": false,
+    "stagingCredentials": {
+      "password": "",
+      "username": ""
+    }
+  },
+  "branches": [
+    {
+      "name": "main",
+      "envVars": [],
+      "isProductionBranch": true
+    }
+  ]
+}

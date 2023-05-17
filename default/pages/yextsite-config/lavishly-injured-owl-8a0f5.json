@@ -1,0 +1,40 @@
+{
+  "$id": "lavishly-injured-owl-8a0f5",
+  "$schema": "https://schema.yext.com/config/pages/yextsite-config/v1",
+  "siteName": "Fleet Manager",
+  "repoConfig": "sleepily-current-sloth-9fff0",
+  "siteSettings": {
+    "autoDeploy": true,
+    "autoStage": true,
+    "autoPublish": false,
+    "pullRequestsEnabled": false,
+    "stagingCredentials": {
+      "password": "",
+      "username": ""
+    }
+  },
+  "branches": [
+    {
+      "name": "master",
+      "envVars": [
+        {
+          "key": "YEXT_PUBLIC_SEARCH_API_KEY",
+          "value": "c8e05730b2c5c284b5f29f757e65a1d4"
+        },
+        {
+          "key": "YEXT_PUBLIC_KV_BASE_URL",
+          "value": "https://fresh-lynx-33102.kv.vercel-storage.com"
+        },
+        {
+          "key": "YEXT_PUBLIC_KV_KEY",
+          "value": "AYFOASQgNTdhZGYwZWEtNTg4NS00ZDBjLTg3YTktNTRkZTRhMjBhMTQ3ZTQxNzdkYmQ4NWUzNDk4Njk2N2RlYTkwNGU2ZjNiNDY\u003d"
+        },
+        {
+          "key": "YEXT_PUBLIC_ADMIN_API_KEY",
+          "value": "371ba6333664664048b449c5917ecb56"
+        }
+      ],
+      "isProductionBranch": true
+    }
+  ]
+}

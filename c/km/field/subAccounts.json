@@ -1,0 +1,14 @@
+{
+  "$id": "c_subAccounts",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Sub Accounts",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "c_subAccounts",
+      "maxLength": 5000
+    }
+  },
+  "typeId": "list"
+}

@@ -1,0 +1,10 @@
+{
+  "$id": "ce_subAccounts.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Sub Accounts-default",
+  "entityType": "ce_subAccounts",
+  "fields": [
+    "c_subAccounts"
+  ],
+  "required": []
+}

@@ -1,0 +1,47 @@
+{
+  "$id": "c_subAccounts",
+  "$schema": "https://schema.yext.com/config/km/field-type/v1",
+  "displayName": "Sub Accounts",
+  "type": {
+    "structType": {
+      "property": [
+        {
+          "name": "name",
+          "displayName": "Name",
+          "isRequired": true,
+          "typeId": "string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE",
+              "maxLength": 100000
+            }
+          }
+        },
+        {
+          "name": "yextCustomerID",
+          "displayName": "Yext Customer ID",
+          "isRequired": false,
+          "typeId": "string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE",
+              "maxLength": 100000
+            }
+          }
+        },
+        {
+          "name": "partnerCustomerID",
+          "displayName": "Partner Customer ID",
+          "isRequired": false,
+          "typeId": "string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE",
+              "maxLength": 100000
+            }
+          }
+        }
+      ]
+    }
+  }
+}

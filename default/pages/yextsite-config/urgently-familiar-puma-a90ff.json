@@ -1,0 +1,23 @@
+{
+  "$id": "urgently-familiar-puma-a90ff",
+  "$schema": "https://schema.yext.com/config/pages/yextsite-config/v1",
+  "siteName": "Basic Locations Site",
+  "repoConfig": "fittingly-assistant-bream-8615b",
+  "siteSettings": {
+    "autoDeploy": true,
+    "autoStage": true,
+    "autoPublish": false,
+    "pullRequestsEnabled": false,
+    "stagingCredentials": {
+      "password": "",
+      "username": ""
+    }
+  },
+  "branches": [
+    {
+      "name": "main",
+      "envVars": [],
+      "isProductionBranch": true
+    }
+  ]
+}

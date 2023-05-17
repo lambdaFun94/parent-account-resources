@@ -1,0 +1,16 @@
+{
+  "$id": "subaccounts",
+  "$schema": "https://schema.yext.com/config/streams/streams-endpoint/v1",
+  "name": "Subaccounts",
+  "stream": {
+    "source": "knowledgeGraph",
+    "fields": [
+      "c_subAccounts"
+    ],
+    "filter": {
+      "entityIds": [
+        "sub-accounts"
+      ]
+    }
+  }
+}

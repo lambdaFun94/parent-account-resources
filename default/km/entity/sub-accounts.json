@@ -1,0 +1,468 @@
+{
+  "$id": "sub-accounts",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_subAccounts": [
+      {
+        "name": "Lily\u0027s Bookstore",
+        "partnerCustomerID": "6728523",
+        "yextCustomerID": "3925740"
+      },
+      {
+        "name": "Bella\u0027s Boutique",
+        "partnerCustomerID": "6728522",
+        "yextCustomerID": "3925739"
+      },
+      {
+        "name": "Olivia\u0027s Cafe",
+        "partnerCustomerID": "6728521",
+        "yextCustomerID": "3925738"
+      },
+      {
+        "name": "Sophie\u0027s Pet Salon",
+        "partnerCustomerID": "6728520",
+        "yextCustomerID": "3925737"
+      },
+      {
+        "name": "Mia\u0027s Bakery",
+        "partnerCustomerID": "6728519",
+        "yextCustomerID": "3925736"
+      },
+      {
+        "name": "Chloe\u0027s Art Studio",
+        "partnerCustomerID": "6728518",
+        "yextCustomerID": "3925735"
+      },
+      {
+        "name": "Emma\u0027s Vintage Clothing",
+        "partnerCustomerID": "6728517",
+        "yextCustomerID": "3925734"
+      },
+      {
+        "name": "Grace\u0027s Jewelry Store",
+        "partnerCustomerID": "6728516",
+        "yextCustomerID": "3925733"
+      },
+      {
+        "name": "Ava\u0027s Tea House",
+        "partnerCustomerID": "6728515",
+        "yextCustomerID": "3925732"
+      },
+      {
+        "name": "Harper\u0027s Toy Shop",
+        "partnerCustomerID": "6728514",
+        "yextCustomerID": "3925731"
+      },
+      {
+        "name": "Riley\u0027s Barber Shop",
+        "partnerCustomerID": "6728513",
+        "yextCustomerID": "3925730"
+      },
+      {
+        "name": "Amelia\u0027s Bed and Breakfast",
+        "partnerCustomerID": "6728512",
+        "yextCustomerID": "3925729"
+      },
+      {
+        "name": "Layla\u0027s Tailoring Services",
+        "partnerCustomerID": "6728511",
+        "yextCustomerID": "3925728"
+      },
+      {
+        "name": "Zoey\u0027s Garden Center",
+        "partnerCustomerID": "6728510",
+        "yextCustomerID": "3925727"
+      },
+      {
+        "name": "Stella\u0027s Music School",
+        "partnerCustomerID": "6728509",
+        "yextCustomerID": "3925726"
+      },
+      {
+        "name": "Mia\u0027s Ice Cream Parlor",
+        "partnerCustomerID": "6728508",
+        "yextCustomerID": "3925725"
+      },
+      {
+        "name": "Evelyn\u0027s Antique Store",
+        "partnerCustomerID": "6728507",
+        "yextCustomerID": "3925724"
+      },
+      {
+        "name": "Aria\u0027s Dance Studio",
+        "partnerCustomerID": "6728506",
+        "yextCustomerID": "3925723"
+      },
+      {
+        "name": "Scarlett\u0027s Bridal Boutique",
+        "partnerCustomerID": "6728505",
+        "yextCustomerID": "3925722"
+      },
+      {
+        "name": "Victoria\u0027s Craft Store",
+        "partnerCustomerID": "6728504",
+        "yextCustomerID": "3925721"
+      },
+      {
+        "name": "Nora\u0027s Home Decor",
+        "partnerCustomerID": "6728503",
+        "yextCustomerID": "3925720"
+      },
+      {
+        "name": "Penelope\u0027s Stationery Shop",
+        "partnerCustomerID": "6728502",
+        "yextCustomerID": "3925719"
+      },
+      {
+        "name": "Madison\u0027s Fitness Studio",
+        "partnerCustomerID": "6728501",
+        "yextCustomerID": "3925718"
+      },
+      {
+        "name": "Hazel\u0027s Pottery Studio",
+        "partnerCustomerID": "6728500",
+        "yextCustomerID": "3925717"
+      },
+      {
+        "name": "Lily\u0027s Bedtime Stories",
+        "partnerCustomerID": "6728499",
+        "yextCustomerID": "3925716"
+      },
+      {
+        "name": "Audrey\u0027s Hat Shop",
+        "partnerCustomerID": "6728498",
+        "yextCustomerID": "3925715"
+      },
+      {
+        "name": "Bella\u0027s Nail Salon",
+        "partnerCustomerID": "6728497",
+        "yextCustomerID": "3925714"
+      },
+      {
+        "name": "Zoe\u0027s Bike Repair",
+        "partnerCustomerID": "6728496",
+        "yextCustomerID": "3925713"
+      },
+      {
+        "name": "Stella\u0027s Wine Bar",
+        "partnerCustomerID": "6728495",
+        "yextCustomerID": "3925712"
+      },
+      {
+        "name": "Sophia\u0027s Yoga Studio",
+        "partnerCustomerID": "6728494",
+        "yextCustomerID": "3925710"
+      },
+      {
+        "name": "Avery\u0027s Candles and Gifts",
+        "partnerCustomerID": "6728493",
+        "yextCustomerID": "3925709"
+      },
+      {
+        "name": "Violet\u0027s Herb Emporium",
+        "partnerCustomerID": "6728492",
+        "yextCustomerID": "3925708"
+      },
+      {
+        "name": "Paisley\u0027s Quilt Shop",
+        "partnerCustomerID": "6728491",
+        "yextCustomerID": "3925707"
+      },
+      {
+        "name": "Leah\u0027s Sports Memorabilia",
+        "partnerCustomerID": "6728490",
+        "yextCustomerID": "3925706"
+      },
+      {
+        "name": "Everly\u0027s Makeup Studio",
+        "partnerCustomerID": "6728489",
+        "yextCustomerID": "3925705"
+      },
+      {
+        "name": "Naomi\u0027s Coffee House",
+        "partnerCustomerID": "6728488",
+        "yextCustomerID": "3925704"
+      },
+      {
+        "name": "Claire\u0027s Fabric Store",
+        "partnerCustomerID": "6728487",
+        "yextCustomerID": "3925703"
+      },
+      {
+        "name": "Aubrey\u0027s Craft Brewery",
+        "partnerCustomerID": "6728486",
+        "yextCustomerID": "3925702"
+      },
+      {
+        "name": "Riley\u0027s Gaming Lounge",
+        "partnerCustomerID": "6728485",
+        "yextCustomerID": "3925701"
+      },
+      {
+        "name": "Ivy\u0027s Interior Design",
+        "partnerCustomerID": "6728484",
+        "yextCustomerID": "3925700"
+      },
+      {
+        "name": "Lily\u0027s Lingerie Boutique",
+        "partnerCustomerID": "6728483",
+        "yextCustomerID": "3925699"
+      },
+      {
+        "name": "Ellie\u0027s Vintage Vinyl Records",
+        "partnerCustomerID": "6728482",
+        "yextCustomerID": "3925698"
+      },
+      {
+        "name": "Ruby\u0027s Crafty Creations",
+        "partnerCustomerID": "6728481",
+        "yextCustomerID": "3925697"
+      },
+      {
+        "name": "Sadie\u0027s Secondhand Shop",
+        "partnerCustomerID": "6728480",
+        "yextCustomerID": "3925696"
+      },
+      {
+        "name": "Nora\u0027s Gourmet Chocolates",
+        "partnerCustomerID": "6728479",
+        "yextCustomerID": "3925695"
+      },
+      {
+        "name": "Ivy\u0027s Wellness Center",
+        "partnerCustomerID": "6728478",
+        "yextCustomerID": "3925694"
+      },
+      {
+        "name": "Stella\u0027s Fashion Studio",
+        "partnerCustomerID": "6728477",
+        "yextCustomerID": "3925693"
+      },
+      {
+        "name": "Harper\u0027s Party Supplies",
+        "partnerCustomerID": "6728476",
+        "yextCustomerID": "3925692"
+      },
+      {
+        "name": "Avery\u0027s Plant Nursery",
+        "partnerCustomerID": "6728475",
+        "yextCustomerID": "3925691"
+      },
+      {
+        "name": "Hazel\u0027s Bakery and Cafe",
+        "partnerCustomerID": "6728474",
+        "yextCustomerID": "3925690"
+      },
+      {
+        "name": "Penelope\u0027s Vintage Furniture",
+        "partnerCustomerID": "6728473",
+        "yextCustomerID": "3925689"
+      },
+      {
+        "name": "Mia\u0027s Photography Studio",
+        "partnerCustomerID": "6728472",
+        "yextCustomerID": "3925688"
+      },
+      {
+        "name": "Grace\u0027s Art Gallery",
+        "partnerCustomerID": "6728471",
+        "yextCustomerID": "3925687"
+      },
+      {
+        "name": "Chloe\u0027s Doggy Daycare",
+        "partnerCustomerID": "6728470",
+        "yextCustomerID": "3925686"
+      },
+      {
+        "name": "Sophie\u0027s Wedding Planning",
+        "partnerCustomerID": "6728469",
+        "yextCustomerID": "3925685"
+      },
+      {
+        "name": "Emily\u0027s Sewing Studio",
+        "partnerCustomerID": "6728468",
+        "yextCustomerID": "3925684"
+      },
+      {
+        "name": "Lily\u0027s Fitness Apparel",
+        "partnerCustomerID": "6728467",
+        "yextCustomerID": "3925683"
+      },
+      {
+        "name": "Bella\u0027s Homeware Store",
+        "partnerCustomerID": "6728466",
+        "yextCustomerID": "3925682"
+      },
+      {
+        "name": "Olivia\u0027s Wine Tasting Room",
+        "partnerCustomerID": "6728465",
+        "yextCustomerID": "3925681"
+      },
+      {
+        "name": "Scarlett\u0027s Vintage Clothing",
+        "partnerCustomerID": "6728464",
+        "yextCustomerID": "3925680"
+      },
+      {
+        "name": "Ava\u0027s Health Food Store",
+        "partnerCustomerID": "6728463",
+        "yextCustomerID": "3925679"
+      },
+      {
+        "name": "Harper\u0027s Music Store",
+        "partnerCustomerID": "6728462",
+        "yextCustomerID": "3925678"
+      },
+      {
+        "name": "Nora\u0027s Bed and Bath",
+        "partnerCustomerID": "6728461",
+        "yextCustomerID": "3925677"
+      },
+      {
+        "name": "Aria\u0027s Antique Jewelry",
+        "partnerCustomerID": "6728460",
+        "yextCustomerID": "3925676"
+      },
+      {
+        "name": "Mia\u0027s Pottery Workshop",
+        "partnerCustomerID": "6728459",
+        "yextCustomerID": "3925675"
+      },
+      {
+        "name": "Chloe\u0027s Travel Agency",
+        "partnerCustomerID": "6728458",
+        "yextCustomerID": "3925674"
+      },
+      {
+        "name": "Stella\u0027s Shoe Boutique",
+        "partnerCustomerID": "6728457",
+        "yextCustomerID": "3925673"
+      },
+      {
+        "name": "Sophia\u0027s Gourmet Popcorn",
+        "partnerCustomerID": "6728456",
+        "yextCustomerID": "3925672"
+      },
+      {
+        "name": "Madison\u0027s Stationery and Gifts",
+        "partnerCustomerID": "6728455",
+        "yextCustomerID": "3925671"
+      },
+      {
+        "name": "Penelope\u0027s Dancewear Store",
+        "partnerCustomerID": "6728454",
+        "yextCustomerID": "3925670"
+      },
+      {
+        "name": "Avery\u0027s Art Supplies",
+        "partnerCustomerID": "6728453",
+        "yextCustomerID": "3925669"
+      },
+      {
+        "name": "Hazel\u0027s Pet Grooming",
+        "partnerCustomerID": "6728452",
+        "yextCustomerID": "3925668"
+      },
+      {
+        "name": "Lily\u0027s Home Renovations",
+        "partnerCustomerID": "6728451",
+        "yextCustomerID": "3925667"
+      },
+      {
+        "name": "Bella\u0027s Perfume Boutique",
+        "partnerCustomerID": "6728450",
+        "yextCustomerID": "3925666"
+      },
+      {
+        "name": "Violet\u0027s Garden Cafe",
+        "partnerCustomerID": "6728449",
+        "yextCustomerID": "3925665"
+      },
+      {
+        "name": "Sadie\u0027s Vintage Vinyl Lounge",
+        "partnerCustomerID": "6728448",
+        "yextCustomerID": "3925664"
+      },
+      {
+        "name": "Everly\u0027s Craft Workshops",
+        "partnerCustomerID": "6728447",
+        "yextCustomerID": "3925663"
+      },
+      {
+        "name": "Olivia\u0027s Organic Farm",
+        "partnerCustomerID": "6728446",
+        "yextCustomerID": "3925662"
+      },
+      {
+        "name": "Mia\u0027s Sewing Supplies",
+        "partnerCustomerID": "6728445",
+        "yextCustomerID": "3925661"
+      },
+      {
+        "name": "Grace\u0027s Artisan Soap Shop",
+        "partnerCustomerID": "6728444",
+        "yextCustomerID": "3925660"
+      },
+      {
+        "name": "Emily\u0027s Custom Tailoring",
+        "partnerCustomerID": "6728443",
+        "yextCustomerID": "3925659"
+      },
+      {
+        "name": "Ruby\u0027s Candle and Spa",
+        "partnerCustomerID": "6728442",
+        "yextCustomerID": "3925658"
+      },
+      {
+        "name": "Leah\u0027s Fitness Studio",
+        "partnerCustomerID": "6728441",
+        "yextCustomerID": "3925657"
+      },
+      {
+        "name": "Aria\u0027s Tea Room",
+        "partnerCustomerID": "6728440",
+        "yextCustomerID": "3925656"
+      },
+      {
+        "name": "Stella\u0027s Bike Shop",
+        "partnerCustomerID": "6728439",
+        "yextCustomerID": "3925655"
+      },
+      {
+        "name": "Zoe\u0027s Crafty Corner",
+        "partnerCustomerID": "6728438",
+        "yextCustomerID": "3925654"
+      },
+      {
+        "name": "Harper\u0027s Chocolate Factory",
+        "partnerCustomerID": "6728437",
+        "yextCustomerID": "3925653"
+      },
+      {
+        "name": "Ivy\u0027s Jewelry Repair",
+        "partnerCustomerID": "6728436",
+        "yextCustomerID": "3925652"
+      },
+      {
+        "name": "Avery\u0027s Music Lessons",
+        "partnerCustomerID": "6728435",
+        "yextCustomerID": "3925651"
+      },
+      {
+        "name": "Hazel\u0027s Vintage Finds",
+        "partnerCustomerID": "6728434",
+        "yextCustomerID": "3925650"
+      },
+      {
+        "name": "Lily\u0027s Plant Shop",
+        "partnerCustomerID": "6728433",
+        "yextCustomerID": "3925649"
+      }
+    ],
+    "name": "Sub Accounts"
+  },
+  "entityType": "ce_subAccounts",
+  "folder": "yext/root",
+  "labels": []
+}
